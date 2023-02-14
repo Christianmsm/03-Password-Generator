@@ -17,18 +17,13 @@ we need to provide logic to the code to make it function properly. I will go bac
 ## Usage
 
 GitHub Repo:
-
+https://github.com/Christianmsm/03-Password-Generator
 
 Deployed Site:
-
+https://christianmsm.github.io/03-Password-Generator/
 
 Screenshot:
-
-
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+<img src="03-Password-Generator/Screen Shot 2023-02-13 at 10.43.00 PM.png">
 
 ## Credits
 
