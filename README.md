@@ -13,6 +13,11 @@ finally all the heavy lifting is being done with the for loop at the botton.
 This was especially challenging to complete and have it generate a random password. I learned a lot about how 
 we need to provide logic to the code to make it function properly. I will go back and tweak it more to get the results that I want it to have. 
 
+** Re-submit **
+
+I have since tweaked the code so that I have confirm windows as opposed to the prompt windows for more ease of use for the user. 
+
+I also tweaked my arrays and the for loop so now once the code is ran a password is generated.
 
 ## Usage
 
@@ -23,7 +28,7 @@ Deployed Site:
 https://christianmsm.github.io/03-Password-Generator/
 
 Screenshot:
-<img src="03-Password-Generator/Screen Shot 2023-02-13 at 10.43.00 PM.png">
+<img src="03-Password-Generator/Password-generator-screenshot.png">
 
 ## Credits
 
