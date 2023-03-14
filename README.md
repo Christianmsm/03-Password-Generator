@@ -28,7 +28,7 @@ Deployed Site:
 https://christianmsm.github.io/03-Password-Generator/
 
 Screenshot:
-<img src="03-Challenge-JS/03-Password-Generator/Images/Password-Generator-Screenshot.png"
+<img src="03-Password-Generator/Images/Password-Generator-Screenshot.png"
 
 ## Credits
 
