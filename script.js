@@ -44,25 +44,25 @@ function generatePassword() {
 
   let passwordLength = prompt("How many characters long would you like your password to be?");
   if (passwordLength >= 8 && passwordLength <= 128); {
-  }
+  } 
 
-  let passwordLowerCase = confirm("would you like to include a lowercase? Y/N?");
+  let passwordLowerCase = confirm("would you like to include a lowercase? Click 'OK'");
   if (passwordLowerCase); {
     passwordArray.push(...lowerCaseEl);
   }
 
 
-  let passwordUpperCase = confirm("Would you like to include an uppercase? Y/N?")
+  let passwordUpperCase = confirm("Would you like to include an uppercase? Click 'OK'")
   if (passwordUpperCase); {
     passwordArray.push(...upperCaseEl);
   }
 
-  let passwordNumeric = confirm("Would you like to include a numeric? Y/N?");
+  let passwordNumeric = confirm("Would you like to include a numeric? Click 'OK'");
   if (passwordNumeric); {
     passwordArray.push(...numberEl);
   }
 
-  let passwordSpecChar = confirm("Would you like to include a special character? Y/N?");
+  let passwordSpecChar = confirm("Would you like to include a special character? Click 'OK'");
   if (passwordSpecChar); {
     passwordArray.push(...specialCharacterEl);
   }
