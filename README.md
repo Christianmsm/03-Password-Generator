@@ -2,6 +2,15 @@
 
 ## Description
 
+This project uses JavaScript to randomly generate a password for the user from their answers to the prompts that are displayed.
+
+I refactored the code to simplify it from previous versions, but also to make it run correctly with no issues.
+
+I first removed all of the extra functions that were unnecessary and had all of the operations put into the one generatePassword function.
+
+Previous versions information can be found down below of my original process for completing this assignment.
+
+**Previous Versions Information**
 This project we used JavaScript to generate a random password from the criteria that the user inputs.
 How it works is prompts will appear on the screen for users to answer and then after all of the prompts are answered a randomized password will be created for the user to copy and paste.
 
@@ -13,7 +22,7 @@ finally all the heavy lifting is being done with the for loop at the botton.
 This was especially challenging to complete and have it generate a random password. I learned a lot about how 
 we need to provide logic to the code to make it function properly. I will go back and tweak it more to get the results that I want it to have. 
 
-** Re-submit **
+** Version 2.0 **
 
 I have since tweaked the code so that I have confirm windows as opposed to the prompt windows for more ease of use for the user. 
 
@@ -28,7 +37,7 @@ Deployed Site:
 https://christianmsm.github.io/03-Password-Generator/
 
 Screenshot:
-<img src="03-Password-Generator/Images/Password-Generator-Screenshot.png"
+<img src="03-Password-Generator/Images/Password-Generator-Screenshot.png">
 
 ## Credits
 
